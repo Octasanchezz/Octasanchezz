@@ -2,19 +2,18 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hola! Mucho Gusto.</h1>
 
 
-<p>Bienvenido a mi github! </br> Soy Octavio, Programador Fullstack developer de <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f1e6-1f1f7.png" width="17"/> <b>Cordoba, Argentina</b> </p>
+<h3><h2>Bienvenido a mi pagina!</h2>
+ <h3> Soy Octavio, Programador Fullstack developer de <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f1e6-1f1f7.png" width="17"/> Cordoba, Argentina</h3>  </h3>
 
 <h3>Tecnologias:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
- 
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="github " src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Javascripts" src="https://img.shields.io/badge/-Javascripts-yellow" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-blue" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
@@ -24,14 +23,14 @@
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Personas</b></td>
-      <td><b>📚 Dureacion</b></td>
+      <td><b>📚 Duracion</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/Octasanchezz/PI-FODD/tree/Octasanchez/PI-Food-main"><b>Proyecto Individual Food</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td>1</td>
+      <td>3 semanas</td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/LaTucuModa16/E-COMMERCE-La-TucuModa"><b>Proyecto Final Ecommerce</b></a></td>
@@ -85,10 +84,10 @@ Tambien fui ampliando mis conocimiento adquiriendo otras tecnologias como:
  
 <h4><h3>✳️¿Querés saber más de mi?</h3> <hr/>
 <h3>¡Contáctame!</h3> 
-📩 gmail: sanchez.octaviomatias21@gmail.com
+📩 gmail: sanchez.octaviomatias21@gmail.com <br/>
 📞 Cel: (+54) 351 2840440 
 </h4>
-<hr/>
-<p><a href="https://github.com/Octasanchezz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/octavio-sanchez-95616b1b5/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<p><br/>
+<a href="https://github.com/Octasanchezz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <br/> <a href="https://www.linkedin.com/in/octavio-sanchez-95616b1b5/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 

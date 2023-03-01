@@ -1,61 +1,94 @@
 
-<h1 align="center">Hola👋, Yo soy Octavio de Cordoba, Argentina</h1>
-<h3 align="">👀 ¿Quién soy?
- Soy Full-Stack Developer con preferencia al Back-End , en donde voy a seguir profundizándome en el Front-End también. Me considero una persona muy sociable , en donde cada día me esfuerzo por aprender algo nuevo.
-"Soy Henry" me enseñe a desarrollar habilidades como programador y soluciones de problemas, asi como también día a día perfeccionar las habilidades y aprender nuevas Tecnologías.
-Mi capacidad autodidacta y de aprendizaje rápido me ayuda a adaptarme a nuevos desafíos desconocidos.
-Durante el desarrollo de mi formación como programador, estuve desarrollando webs apps (DataBase - Backend - FrontEnd) de la misma, consultando a Apis tanto externas como locales.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hola! Mucho Gusto.</h1>
 
-  
-💻Experiencias:
 
-✅full stack developer- Food App <sr/>
-Desarrollo de un Restaurant (single page application) utilizando React para el fornt-end y Redux como state management. Todos los componentes fueron creados con CSS sin uso de librerias externas. La app de Food consume datos de una API, a traves de un Back-end desarrollado en NodeJS utilizando Express agregando nuevas funcionalidades a la API original.
-  Objetivos Realizados: 
-   - Construir una App utilizando React, Redux, Node y Sequelize.
-   - Conectar Api Externa
-   - La idea fue crear una App en la cual se puedan ver distintas recetas de comida junto coninformación relevante de las mismas utilizando la api externa "spoonacular" y a partir de ella poder, entre otras cosas: 
-   - La api cuenta cuenta con modelos de tablas de bases de datos (PostgreSQL) para crear recetas propias.
-   - Buscar recetas
-   - Filtrarlos / Ordenarlos
-   - Crear nuevas recetas propias
+<p>Bienvenido a mi github! </br> Soy Octavio, Programador Fullstack developer de <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f1e6-1f1f7.png" width="17"/> <b>Cordoba, Argentina</b> </p>
 
-✅full stack developer-  Ecommerce LaTucuModa
- Participe en un equipo de desarrollo de tres semana presentándole a un Product Owner avances sobre el desarrollo de una app completa de un E-commerce con diseño y desarrollo de las siguientes features: Features básicas de e-commerce (CRUD de productos, auth, catálogo, checkout, etc..)
-   - Integración pasarela de Pago (Mercado Pago).
-   - Envío de emails transaccionales (nodemailer).
-   - Carrito de compras,
-   - Administración de usuarios, (Baned, isAdmin).
-   - Tecnologías aplicadas : React, Redux, PostgreSQL, javascript, NodeJS, Express, Styled-Component, 
+<h3>Tecnologias:</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+ 
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Personas</b></td>
+      <td><b>📚 Dureacion</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Proyecto Individual Food</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Proyecto Final Ecommerce</b></a></td>
+      <td>4</td>
+      <td>3 semanas</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-👨🏼‍💻Tecnologías:
+<h4><h3>✳️¿Quién soy?</h3><hr/>
+ Soy un Programado Full-Stack Developer con preferencia al Back-End , en donde voy a seguir profundizándome en el Front-End también. Desde hace 2 años me ha interesado el mundo de la programacion. mi primer acercamiento al codido fue Java.
+ </h4>
+ <h4><h3>✳️¿Que Hago?</h3><hr/>
+Actualmente me dedico a realizar proyectos que me permitan sumar experiencia en mi formacion, tanto sumando mas practica con tecnologias ya aprendidas o implementando nueva tecnologias como MongoDb, NextJs, Firebase, etc. 
+</h4>
 
-✳️ Front-end:
-- HTML 
-- Css 
-- JavaScript 
-- React.Js
-- Redux 
+ <h4><h3/>✳️¿Como Objetivo?</h3><hr/>
+Como objetivo principal es poder ganar experiencia e impactar en el mundo de la programacion
 
-✳️Back-end:
-- NodeJs 
-- Express 
-- Postgres 
-- Sequelize 
-- MongoDB
+Me considero apasionado por la programacion , Y quisiera unirme a una empresa donde pueda aplicar mis habilidades , seguir creciendo y aprendiendo cada dia mas.
+</h4>
 
-✳️Others: 
-- GitHub 
-- Postman 
-- Styled.Component
-- Trello 
+ <h4><h3>✳️¿Que tecnologias uso?</>h3<hr/>
+El bootcamp de Henry me permitio adquirir conocimiento y experiencia para poder despegar 🚀
+
+Las Principales tecnologias que manejo son:
+- Javascript
+- React.js
+- Node.js
+- Express.js
+- PostgreSQL
+- Sequelize
+- Css
+- Html
+
+Entre otras herramientas de trabajo, tambien tengo conocimiento en: 
+- GitHub
+- Postman
+- Visual Studio Code
 - Slack
+- Trello
 
-¿Querés saber más de mi? 
-¡Contáctame! 
+Tambien fui ampliando mis conocimiento adquiriendo otras tecnologias como:
+- MongoDB (Atlas)
+- Styled-Component
+</h4>
+ 
+<h4><h3>✳️¿Querés saber más de mi?</h3> <hr/>
+<h3>¡Contáctame!</h3> 
 📩 gmail: sanchez.octaviomatias21@gmail.com
-📞 Cel: (+54) 9 351 2840440 
-💬 LinkedIn: https://www.linkedin.com/in/octavio-sanchez-95616b1b5/</h3>
+📞 Cel: (+54) 351 2840440 
+</h4>
+<hr/>
+<p><a href="https://github.com/Octasanchezz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/octavio-sanchez-95616b1b5/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>

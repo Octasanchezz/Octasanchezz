@@ -29,12 +29,12 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Proyecto Individual Food</b></a></td>
+      <td><a href="https://github.com/Octasanchezz/PI-FODD/tree/Octasanchez/PI-Food-main"><b>Proyecto Individual Food</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Proyecto Final Ecommerce</b></a></td>
+      <td><a href="https://github.com/LaTucuModa16/E-COMMERCE-La-TucuModa"><b>Proyecto Final Ecommerce</b></a></td>
       <td>4</td>
       <td>3 semanas</td>
     </tr>

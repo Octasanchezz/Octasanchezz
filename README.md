@@ -28,12 +28,12 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Octasanchezz/PI-FODD/tree/Octasanchez/PI-Food-main"><b>Proyecto Individual Food</b></a></td>
+      <td><a href="https://github.com/Octasanchezz/PI-FODD"><b>Proyecto Individual Food</b></a></td>
       <td>1</td>
       <td>3 semanas</td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/LaTucuModa16/E-COMMERCE-La-TucuModa"><b>Proyecto Final Ecommerce</b></a></td>
+      <td><a href="https://github.com/LaTucuModa16/E-COMMERCE-La-TucuModa/tree/dev"><b>Proyecto Final Ecommerce</b></a></td>
       <td>4</td>
       <td>3 semanas</td>
     </tr>

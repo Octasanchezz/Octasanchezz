@@ -38,7 +38,11 @@
       <td>3 semanas</td>
     </tr>
     <tr>
-      <td></td>
+      <td>
+function hola(){
+const hola2= 5;	      
+}
+</td>
       <td></td>
     </tr>
   </tbody>
